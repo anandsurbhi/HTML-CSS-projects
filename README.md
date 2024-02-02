@@ -4,4 +4,4 @@
 <p>Tech stack utilised :</p>
 <i>1)HTML5
 2)CSS3
-Tool: VS code.,</i>
+Tool: VS code.</i>
